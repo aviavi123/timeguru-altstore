@@ -1,6 +1,7 @@
 {
   "name": "Avi Bortnick Apps",
   "subtitle": "Independent iOS apps by Avi Bortnick",
+"fediUsername": "timeguru",
   "iconURL": "https://raw.githubusercontent.com/aviavi123/timeguru-altstore/main/icon-1024.png",
   "website": "https://avibortnick.com",
   "tintColor": "#8B2418",
