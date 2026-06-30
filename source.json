@@ -1,0 +1,46 @@
+{
+  "name": "Avi Bortnick Apps",
+  "subtitle": "Independent iOS apps by Avi Bortnick",
+  "iconURL": "https://raw.githubusercontent.com/aviavi123/timeguru-altstore/main/icon-1024.png",
+  "website": "https://avibortnick.com",
+  "tintColor": "#8B2418",
+  "apps": [
+    {
+      "name": "Time Guru Metronome",
+      "bundleIdentifier": "N3RGLBXMP",
+      "marketplaceID": "421929034",
+      "developerName": "Avi Bortnick",
+      "subtitle": "Strengthen your rhythm!",
+      "localizedDescription": "Random muting trains your internal clock. Unlimited meter patterns. Gradual tempo changes. The metronome that makes you better.",
+      "iconURL": "https://raw.githubusercontent.com/aviavi123/timeguru-altstore/main/icon-1024.png",
+      "tintColor": "#8B2418",
+      "category": "music",
+      "screenshots": [
+        "https://raw.githubusercontent.com/aviavi123/timeguru-altstore/main/Time%20Guru%20v5%20iphone%20screenshot%20promos.001.png",
+        "https://raw.githubusercontent.com/aviavi123/timeguru-altstore/main/Time%20Guru%20v5%20iphone%20screenshot%20promos.002.png",
+        "https://raw.githubusercontent.com/aviavi123/timeguru-altstore/main/Time%20Guru%20v5%20iphone%20screenshot%20promos.003.png",
+        "https://raw.githubusercontent.com/aviavi123/timeguru-altstore/main/Time%20Guru%20v5%20iphone%20screenshot%20promos.004.png",
+        "https://raw.githubusercontent.com/aviavi123/timeguru-altstore/main/Time%20Guru%20v5%20iphone%20screenshot%20promos.005.png",
+        "https://raw.githubusercontent.com/aviavi123/timeguru-altstore/main/Time%20Guru%20v5%20iphone%20screenshot%20promos.006.png",
+        "https://raw.githubusercontent.com/aviavi123/timeguru-altstore/main/Time%20Guru%20v5%20iphone%20screenshot%20promos.007.png"
+      ],
+      "versions": [
+        {
+          "version": "5.6.3",
+          "buildVersion": "41",
+          "date": "2026-05-14T00:00:00Z",
+          "localizedDescription": "Initial AltStore PAL release",
+          "downloadURL": "https://raw.githubusercontent.com/aviavi123/timeguru-altstore/main/manifest.json",
+          "size": 3700000,
+          "minOSVersion": "17.6"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.ubiquity-kvstore-identifier"
+        ],
+        "privacy": {}
+      }
+    }
+  ]
+}
